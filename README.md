@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MdAsifIq
 - 👀 I’m interested in playing video games, watching TV shows and movies.
 - 🌱 I’m currently learning Swift coding.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making websites.
 - 📫 How to reach me via email: iqbalma@utas.edu.au
 
 <!---
